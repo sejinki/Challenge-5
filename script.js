@@ -21,8 +21,3 @@ $(document).ready(function () {
         $(".container").append(rowDiv.append(hourDiv, textArea, button));
     }
 })
-// '      <div class="row time-block">
-// <div class="col-2">9am</div>
-// <textarea class="col-8"></textarea>
-// <button class="btn btn-primary saveBtn">save</button>
-// </div>'
